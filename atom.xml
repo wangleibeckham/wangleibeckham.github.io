@@ -4,9 +4,9 @@
   <subtitle>Opinions expressed are solely my own and do not express the views or opinions of my employer</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://wangleibeckham.github.io/"/>
   <updated>2017-06-25T11:39:29.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://wangleibeckham.github.io/</id>
   
   <author>
     <name>Zhenwei (aka Antony) Wang &lt;br/&gt; 王振维</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Development Worklog</title>
-    <link href="http://yoursite.com/2017/06/25/Development-worklog/"/>
-    <id>http://yoursite.com/2017/06/25/Development-worklog/</id>
+    <link href="https://wangleibeckham.github.io/2017/06/25/Development-worklog/"/>
+    <id>https://wangleibeckham.github.io/2017/06/25/Development-worklog/</id>
     <published>2017-06-25T11:33:45.000Z</published>
     <updated>2017-06-25T11:39:29.000Z</updated>
     
@@ -35,17 +35,17 @@
     
     </summary>
     
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+      <category term="blog" scheme="https://wangleibeckham.github.io/categories/blog/"/>
     
     
-      <category term="php" scheme="http://yoursite.com/tags/php/"/>
+      <category term="php" scheme="https://wangleibeckham.github.io/tags/php/"/>
     
   </entry>
   
   <entry>
     <title>Experience with ES6</title>
-    <link href="http://yoursite.com/2017/03/19/Experience-with-ES6/"/>
-    <id>http://yoursite.com/2017/03/19/Experience-with-ES6/</id>
+    <link href="https://wangleibeckham.github.io/2017/03/19/Experience-with-ES6/"/>
+    <id>https://wangleibeckham.github.io/2017/03/19/Experience-with-ES6/</id>
     <published>2017-03-20T01:50:23.000Z</published>
     <updated>2017-06-25T04:12:43.000Z</updated>
     
@@ -63,17 +63,17 @@
     
     </summary>
     
-      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+      <category term="blog" scheme="https://wangleibeckham.github.io/categories/blog/"/>
     
     
-      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+      <category term="js" scheme="https://wangleibeckham.github.io/tags/js/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/1970/01/01/hello-world/"/>
-    <id>http://yoursite.com/1970/01/01/hello-world/</id>
+    <link href="https://wangleibeckham.github.io/1970/01/01/hello-world/"/>
+    <id>https://wangleibeckham.github.io/1970/01/01/hello-world/</id>
     <published>1970-01-01T05:00:00.000Z</published>
     <updated>2017-06-25T04:01:49.000Z</updated>
     
@@ -87,10 +87,10 @@
     
     </summary>
     
-      <category term="life" scheme="http://yoursite.com/categories/life/"/>
+      <category term="life" scheme="https://wangleibeckham.github.io/categories/life/"/>
     
     
-      <category term="welcome" scheme="http://yoursite.com/tags/welcome/"/>
+      <category term="welcome" scheme="https://wangleibeckham.github.io/tags/welcome/"/>
     
   </entry>
   
