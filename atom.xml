@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-25T04:12:43.000Z</updated>
+  <updated>2017-06-25T11:39:29.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Development Worklog</title>
+    <link href="http://yoursite.com/2017/06/25/Development-worklog/"/>
+    <id>http://yoursite.com/2017/06/25/Development-worklog/</id>
+    <published>2017-06-25T11:33:45.000Z</published>
+    <updated>2017-06-25T11:39:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>So right now my role at IBM Cloud team is Cloud security development with a focus on Identity and Access Management.<br><a id="more"></a></p>
+<h2 id="What-is-IBMid"><a href="#What-is-IBMid" class="headerlink" title="What is IBMid"></a>What is IBMid</h2><p>IBMid is an ID that is used to log into IBM applications and offerings to engage IBM digitally. IBM Identity Service (blueID) is the cloud based identity access and management solution, it provides identity and single sign-on services for IBM applications.</p>
+<h2 id="What-My-role-is"><a href="#What-My-role-is" class="headerlink" title="What My role is"></a>What My role is</h2><p>My main work is to interface IBM Cloud IdaaS (previously SoftLayer) with the existing IBM Paas (Bluemix). Things like token verification and exchange, Oauth, 2-Factor Authentication and API development is what I am doing, specifically for the actual user/customer within an Account. Checkout some info from <a href="https://www.ibm.com/us-en/marketplace/cloud-identity-connect?S_PKG=-&amp;cm_mmc=Search_Google-_-Security_Govern+users+and+their+access-_-WW_NA-_-iam+ibm_Exact_-&amp;cm_mmca1=000018ZN&amp;cm_mmca2=10005589&amp;mkwid=75fb4a80-3189-47fe-84b7-4101472cef5f|467|613043&amp;cvosrc=ppc.google.iam%20ibm&amp;cvo_campaign=Security_Govern%20users%20and%20their%20access-WW_NA&amp;cvo_crid=200070287176&amp;Matchtype=e" target="_blank" rel="external">IBM Cloud Identity Connect</a></p>
+<h2 id="Languages-and-toolchain"><a href="#Languages-and-toolchain" class="headerlink" title="Languages and toolchain"></a>Languages and toolchain</h2><p>The language I am using for the project is PHP (for general development), python (for some scripting job) and JavaScript (Node.js) for some other development work.</p>
+<p>I think this job allows me to get in touch with many important concepts like API development, IAM development, and code teamwork. (Jira, Jenkins and stuff). I also got a bunch of nice teammates like Don, Dennis, Ryan… It’s been fun.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;So right now my role at IBM Cloud team is Cloud security development with a focus on Identity and Access Management.&lt;br&gt;
+    
+    </summary>
+    
+      <category term="blog" scheme="http://yoursite.com/categories/blog/"/>
+    
+    
+      <category term="php" scheme="http://yoursite.com/tags/php/"/>
+    
+  </entry>
   
   <entry>
     <title>Experience with ES6</title>
